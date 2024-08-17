@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/4ddf70a9-3787-436a-a4a5-5c47304debfe
+
+
+
+https://github.com/user-attachments/assets/70b632fd-b170-46b5-bff3-bba90c01226f
+
 # MoviesApp
 
 ## Overview
