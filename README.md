@@ -8,16 +8,18 @@ https://github.com/user-attachments/assets/4ddf70a9-3787-436a-a4a5-5c47304debfe
 The Movies App is an Android application developed using Kotlin and Jetpack Compose. It provides users with a modern, clean interface to browse and search for popular movies. The app uses a responsive design and leverages the latest Android development practices, including MVVM architecture, Koin for dependency injection, and Coil for image loading.
 
 ## Features
-- Browse Movies: Explore a list of trending movies fetched from an online API.
-- Search Movies: Search for movies by name and overview using the built-in search bar.
-- View Movie Details: Tap on a movie to view detailed information, including a poster, title, and overview.
-- Pull-to-Refresh: Refresh the list of movies by pulling down on the screen.
-- Loading and Error States: Proper handling of loading and error states during network operations.
-- Dark Theme Support: The app supports a dark theme for a better user experience in low-light environments.
-- Dependency Injection with Koin: Simplifies dependency management and reduces boilerplate code.
-- Jetpack Compose: Utilizes a modern UI toolkit for building native UIs with a declarative approach.
-- MVVM Architecture: Ensures a clean separation of concerns, making the codebase more maintainable.
-- Coil Image Loading: Efficiently loads and displays images from URLs using Coil.
+- **Browse Movies**: Explore a list of trending movies fetched from an online API.
+- **Search Movies**: Search for movies by name and overview using the built-in search bar.
+- **View Movie Details**: Tap on a movie to view detailed information, including a poster, title, and overview.
+- **Pull-to-Refresh**: Refresh the list of movies by pulling down on the screen.
+- **Loading and Error States**: Proper handling of loading and error states during network operations.
+- **Dark Theme Support**: The app supports a dark theme for a better user experience in low-light environments.
+- **Dependency Injection with Koin**: Simplifies dependency management and reduces boilerplate code.
+- **Jetpack Compose**: Utilizes a modern UI toolkit for building native UIs with a declarative approach.
+- **MVVM Architecture**: Ensures a clean separation of concerns, making the codebase more maintainable.
+- **Coil Image Loading**: Efficiently loads and displays images from URLs using Coil.
+- **Compose Navigation**: Manages navigation between different screens in the app using Jetpack Compose's Navigation library.
+
 
 ## Prerequisites
 - Android Studio (latest version recommended)
@@ -69,3 +71,4 @@ Replace `your_api_key_here` with the actual API key you obtained from TMDB.
 - **Coroutines**: Utilized to handle asynchronous operations and background tasks efficiently, ensuring smooth performance and responsiveness of the app.
 - **Pull to Refresh**: A feature allowing users to refresh the movie list by pulling down from the top of the screen, ensuring they always have the most up-to-date information.
 - **Dark Theme Support**: The app supports a dark theme to enhance the user experience in low-light environments.
+- **Compose Navigation**: Manages navigation between different screens using Jetpack Compose’s Navigation library, providing a seamless user experience.
