@@ -56,10 +56,10 @@ Replace `your_api_key_here` with the actual API key you obtained from TMDB.
 3. Select the device or emulator where you want to install and run the app.
 
 ## Key Components
-- **MVVM Architecture: The application is structured using the Model-View-ViewModel architecture to separate concerns and ensure a maintainable codebase.
-- **TMDB API Integration: Fetches trending movies and movie details from The Movie Database (TMDB) API.
-- **Jetpack Compose: Provides a modern toolkit for building native UIs with a declarative approach, ensuring a responsive and visually appealing interface.
-- **Dependency Injection with Koin: Simplifies the injection of dependencies and reduces boilerplate code, making the app more modular and testable.
-- **Search Feature: Users can search for movies by name and overview using a search bar integrated into the main movie list screen.
-- **Coroutines for Background Tasks: Utilized to handle asynchronous operations and background tasks efficiently, ensuring smooth performance and responsiveness of the app.
-- **Pull to Refresh: A feature allowing users to refresh the movie list by pulling down from the top of the screen, ensuring they always have the most up-to-date information.
+- **MVVM Architecture**: The application is structured using the Model-View-ViewModel architecture to separate concerns and ensure a maintainable codebase.
+- **TMDB API Integration**: Fetches trending movies and movie details from The Movie Database (TMDB) API.
+- **Jetpack Compose**: Provides a modern toolkit for building native UIs with a declarative approach, ensuring a responsive and visually appealing interface.
+- **Dependency Injection with Koin**: Simplifies the injection of dependencies and reduces boilerplate code, making the app more modular and testable.
+- **Search Feature**: Users can search for movies by name and overview using a search bar integrated into the main movie list screen.
+- **Coroutines**: Utilized to handle asynchronous operations and background tasks efficiently, ensuring smooth performance and responsiveness of the app.
+- **Pull to Refresh**: A feature allowing users to refresh the movie list by pulling down from the top of the screen, ensuring they always have the most up-to-date information.
