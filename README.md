@@ -38,10 +38,12 @@ git clone https://github.com/nehagarg702/MoviesApp.git
 4. Copy the API key to use in the project.
 
 ### Add TMDB API Key to local.properties
-1. Open the local.properties file in your project's root directory.
-2. Add the following line to include your TMDB API key:
-   TMDB_API_KEY=your_api_key_here
-Replace your_api_key_here with the actual API key you obtained from TMDB.
+
+1. Open the `local.properties` file in your project's root directory.<br>
+2. Add the following line to include your TMDB API key:<br>
+   `TMDB_API_KEY=your_api_key_here`
+
+Replace `your_api_key_here` with the actual API key you obtained from TMDB.
 
 ### Build the Project
 1. Ensure you have a stable internet connection to download the necessary dependencies.
