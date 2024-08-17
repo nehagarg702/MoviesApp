@@ -9,6 +9,7 @@ The Movies App is an Android application developed using Kotlin and Jetpack Comp
 - View Movie Details: Tap on a movie to view detailed information, including a poster, title, and overview.
 - Pull-to-Refresh: Refresh the list of movies by pulling down on the screen.
 - Loading and Error States: Proper handling of loading and error states during network operations.
+- Dark Theme Support: The app supports a dark theme for a better user experience in low-light environments.
 - Dependency Injection with Koin: Simplifies dependency management and reduces boilerplate code.
 - Jetpack Compose: Utilizes a modern UI toolkit for building native UIs with a declarative approach.
 - MVVM Architecture: Ensures a clean separation of concerns, making the codebase more maintainable.
@@ -63,3 +64,4 @@ Replace `your_api_key_here` with the actual API key you obtained from TMDB.
 - **Search Feature**: Users can search for movies by name and overview using a search bar integrated into the main movie list screen.
 - **Coroutines**: Utilized to handle asynchronous operations and background tasks efficiently, ensuring smooth performance and responsiveness of the app.
 - **Pull to Refresh**: A feature allowing users to refresh the movie list by pulling down from the top of the screen, ensuring they always have the most up-to-date information.
+- **Dark Theme Support**: The app supports a dark theme to enhance the user experience in low-light environments.
