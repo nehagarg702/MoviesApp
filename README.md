@@ -28,7 +28,7 @@ git clone https://github.com/nehagarg702/MoviesApp.git
 
 ### Open the Project in Android Studio
 1. Open Android Studio.
-2. Click on File > Open....
+2. Click on File > Open.
 3. Navigate to the directory where you cloned the project and select the build.gradle file to open the project.
 
 ### Get Your TMDB API Key
