@@ -1,6 +1,6 @@
 # MoviesApp
 
-##Overview
+## Overview
 The Movies App is an Android application developed using Kotlin and Jetpack Compose. It provides users with a modern, clean interface to browse and search for popular movies. The app uses a responsive design and leverages the latest Android development practices, including MVVM architecture, Koin for dependency injection, and Coil for image loading.
 
 ## Features
